@@ -1,4 +1,7 @@
-empous
+Empous iOS Code
 ======
 
-Code base for Empous. Includes IOS code and Webserver code (Django)
+The iOS code is a standard XCode Project. You will need to have a local Empous server running before you can run the iOS app.
+
+
+
