@@ -1,0 +1,20 @@
+[submodule "Empous/libs/facebook-ios-sdk"]
+	path = Empous/libs/facebook-ios-sdk
+	url = https://github.com/facebook/facebook-ios-sdk.git
+	ignore = dirty
+[submodule "Empous/libs/cocos2d-iphone"]
+	path = Empous/libs/cocos2d-iphone
+	url = https://github.com/cocos2d/cocos2d-iphone.git
+	ignore = dirty
+[submodule "Empous/libs/asi-http-request"]
+	path = Empous/libs/asi-http-request
+	url = git://github.com/pokeb/asi-http-request.git
+[submodule "Empous/libs/cocos2d-iphone-extensions"]
+	path = Empous/libs/cocos2d-iphone-extensions
+	url = git://github.com/cocos2d/cocos2d-iphone-extensions.git
+[submodule "Empous/libs/hurleyprog-cocos2dUtilities"]
+	path = Empous/libs/hurleyprog-cocos2dUtilities
+	url = https://github.com/HurleyProg/Cocos2dUtilities.git
+[submodule "Empous/libs/appirater"]
+	path = Empous/libs/appirater
+	url = https://github.com/arashpayan/appirater.git

@@ -1,0 +1,9 @@
+.gitignore~
+empous/media
+*.pyc
+*.pyo
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+
+*empousDB

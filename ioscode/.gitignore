@@ -1,0 +1,6 @@
+.DS_Store
+Empous.xcodeproj/xcuserdata/
+Empous.xcodeproj/project.xcworkspace/
+.gitignore~
+.gitmodules~
+*~

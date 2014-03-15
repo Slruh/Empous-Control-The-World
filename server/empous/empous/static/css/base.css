@@ -1,0 +1,11 @@
+body{
+	background-image:url(../img/empousbg.png);
+	background-repeat:repeat-x;
+	background-color:#DDDDDD;
+	width:100%;
+}
+
+.wrapper{
+	width:1024px;
+	margin:auto;
+}
