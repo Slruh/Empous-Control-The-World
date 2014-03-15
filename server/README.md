@@ -1,4 +1,23 @@
+#Running Empous Server
+These are rough instuctions that mostly follow the django installations instructions.
+
 #Running Django Locally For Developement
+
+You will need python 2.7.3 on your local machine, install the current version of django, and sqlite3.
+
+Download the code by running
+
+```
+sudo git clone git clone https://github.com/Slruh/Empous-Control-The-World.git empous
+```
+
+You need to change settings.py in the empous folder to point to the database you want to use. Defaults to a local sqlite3 directory. Once you have everything installed, you need to set up the local sqlite3 db and start a local server.
+
+```
+cd empous/server
+python manage.py syncdb
+python manage.py runserver
+```
 
 #Installing Empous Webserver Using Mod_wsgi on Production Server
 
